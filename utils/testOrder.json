@@ -1,0 +1,26 @@
+{
+    "shippingInfo": {
+      "address": "b-512 karnik nagar solapur",
+      "city": "solapur",
+      "phoneNo": "9145221222",
+      "postalCode": "413006",
+      "state": "Maharastra",
+      "country": "India"
+    },
+    "orderItems": [
+      {
+        "name": "Pro Coder tshirts",
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dk92l1yoc/image/upload/v1635757229/products/b4laryk4dbp6vdrvq3wv.png",
+        "price": 999,
+        "product": "617facb5333fd4c0fdfdee65"
+      }
+    ],
+    "paymentInfo": {
+      "id": "testString"
+    },
+    "taxAmount": 40,
+    "shippingAmount": 10,
+    "totalAmount": 100
+  }
+  
